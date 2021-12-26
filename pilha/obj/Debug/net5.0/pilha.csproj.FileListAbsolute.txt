@@ -1,0 +1,16 @@
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\bin\Debug\net5.0\pilha.exe
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\bin\Debug\net5.0\pilha.deps.json
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\bin\Debug\net5.0\pilha.runtimeconfig.json
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\bin\Debug\net5.0\pilha.runtimeconfig.dev.json
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\bin\Debug\net5.0\pilha.dll
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\bin\Debug\net5.0\ref\pilha.dll
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\bin\Debug\net5.0\pilha.pdb
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.csproj.AssemblyReference.cache
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.AssemblyInfoInputs.cache
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.AssemblyInfo.cs
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.dll
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\ref\pilha.dll
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.pdb
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio\pilha\obj\Debug\net5.0\pilha.genruntimeconfig.cache
